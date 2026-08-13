@@ -41,8 +41,8 @@ API automation testing project. Designed for reliability and scalability with ad
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/qam1s/requests-api-testing.git
-cd requests-api-testing
+git clone https://github.com/qam1s/api-testing.git
+cd api-testing
 ```
 
 ### 2. Install Dependencies
